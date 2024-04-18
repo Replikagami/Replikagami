@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Replikagami or just Kagami.
-- 👀 I’m interested in making about five bots as well as to make my own programs for entertainment.
-- 🌱 I’m currently learning Python, I am very new to these.
-- 💞️ I’m looking to collaborate: ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/She
-- ⚡ Fun fact: I love sushi amd music :3
+- User: Delta
+- Final goal is to make a series of bots.
+- I’m currently learning Python, I am very new to these.
+- Not looking for a partner.
+- I'm a male ♂️
